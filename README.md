@@ -2,7 +2,7 @@
 Campus air monitoring station and scientific research
 
 ## Project 1
-Atmospheric data, air pollutants and student injuries on campus
+The non-health effects of temperature and air pollution on students in schools
 
 ### Abstract
 Multiple studies have shown that factors such as temperature and air pollution can affect people's cognitive level and a series of effects. Some related reports include air pollution and cognition, air pollution and traffic accidents, etc. All show that air pollution does not only affect people's respiratory system. Therefore, this study investigated whether atmospheric temperature and air pollution are related to the number of injuries among students in school.
@@ -12,3 +12,5 @@ Surveying Macau's atmospheric data and on-campus medical data from September 202
 
 ### Reference
 1. Baryshnikova, Nadezhda V., and Dennis Wesselbaum. "Air pollution and motor vehicle collisions in New York city." Environmental Pollution 337 (2023): 122595.
+2. Sager, Lutz. "Estimating the effect of air pollution on road safety using atmospheric temperature inversions." Journal of Environmental Economics and Management 98 (2019): 102250.
+3. Gao, Huaxi, Jieran Shi, Hongguang Cheng, Yaqin Zhang, and Yan Zhang. "The impact of long-and short-term exposure to different ambient air pollutants on cognitive function in China." Environment International 151 (2021): 106416.
