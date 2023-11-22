@@ -2,7 +2,7 @@
 Campus air monitoring station and scientific research
 
 ## Project 1
-Campus air pollution and student sports injuries
+Atmospheric data, air pollutants and student injuries on campus
 
 ### Abstract
 Multiple studies have shown that factors such as temperature and air pollution can affect people's cognitive level and a series of effects. Some related reports include air pollution and cognition, air pollution and traffic accidents, etc. All show that air pollution does not only affect people's respiratory system. Therefore, this study investigated whether atmospheric temperature and air pollution are related to the number of injuries among students in school.
