@@ -14,3 +14,5 @@ Surveying Macau's atmospheric data and on-campus medical data from September 202
 1. Baryshnikova, Nadezhda V., and Dennis Wesselbaum. "Air pollution and motor vehicle collisions in New York city." Environmental Pollution 337 (2023): 122595.
 2. Sager, Lutz. "Estimating the effect of air pollution on road safety using atmospheric temperature inversions." Journal of Environmental Economics and Management 98 (2019): 102250.
 3. Gao, Huaxi, Jieran Shi, Hongguang Cheng, Yaqin Zhang, and Yan Zhang. "The impact of long-and short-term exposure to different ambient air pollutants on cognitive function in China." Environment International 151 (2021): 106416.
+4. Vega-Calderón, Luis, Ricardo Almendra, Pablo Fdez-Arroyabe, María T. Zarrabeitia, and Ana Santurtún. "Air pollution and occupational accidents in the Community of Madrid, Spain." International journal of biometeorology 65 (2021): 429-436.
+5. Lavy, Victor, Genia Rachkovski, and Omry Yoresh. Heads Up: Does Air Pollution Cause Workplace Accidents?. No. w30715. National Bureau of Economic Research, 2022.
